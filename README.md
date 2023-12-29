@@ -1,2 +1,1 @@
-# hangman
- hangman in python
+hangman in python in 30 mins
