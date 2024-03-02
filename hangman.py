@@ -1,6 +1,7 @@
+import os
 import random
 import time
-import os
+
 from colorama import Fore, init
 
 init(autoreset=True)
